@@ -27,14 +27,14 @@ body{
 	margin-left:20px;
 	margin-right:5px;
 	width:600px;
-	max-height:300px;
 	justify-content:center;
 }
-.latest-news-section>h3,.pictorial-news-section>h3,.main-section>h3{
-	margin:10px;
+.latest-news-section,.pictorial-news-section,.main-section{
+	padding:10px;
+	border-radius:10px;
 }
 .pictorial-news-section{
 	margin-left:5px;
 	margin-right:20px;
-	width:500px;
+	width:600px;
 }
